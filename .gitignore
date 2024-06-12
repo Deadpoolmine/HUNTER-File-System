@@ -1,0 +1,23 @@
+# Compiled object files
+*.o
+
+# Compiled kernel modules
+*.ko
+
+# Symbol files
+*.symvers
+
+# Generated files
+Module.symvers
+modules.order
+
+# Build output directory
+/build/
+
+# Editor backup files
+*~
+
+# Temporary files
+*.swp
+
+.vscode

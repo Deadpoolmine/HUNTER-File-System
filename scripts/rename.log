@@ -1,0 +1,26 @@
+JOURNAL:  jtype: 0, jofs_start: 0x1040d021, jofs_end: 0x1040e000, 
+          jofs_head: 0x1040d369, jofs_tail: 0x1040d8e1
+
+J_INODE:  ino: 1, tstamp: 1, i_flags: 0, i_size: 0 
+          i_ctime: 1645354268, i_mtime: 1645354268, i_atime: 1645354268, 
+          i_mode: 33188, i_links_count: 1, i_xattr: 0, i_uid: 0, i_gid: 0, 
+          i_generation: 809657885, i_create_time: 1645354268, rdev: 0
+        
+J_DENTRY: name_len: 1, links_count: 0, mtime: 1645354268 
+          ino: 1, tstamp: (-), name: c
+
+J_DENTRY: name_len: 1, links_count: 0, mtime: 1645354268 
+          ino: 1, tstamp: (-), name: j
+
+J_INODE:  ino: 0, tstamp: 0, i_flags: 0, i_size: 4096 
+          i_ctime: 1645354268, i_mtime: 1645354268, i_atime: 1645354268, 
+          i_mode: 16877, i_links_count: 2, i_xattr: 0, i_uid: 0, i_gid: 0, 
+          i_generation: 0, i_create_time: 0, rdev: 0
+
+J_INODE: ino: 0, tstamp: 0, i_flags: 0, i_size: 4096 
+         i_ctime: 1645354268, i_mtime: 1645354268, i_atime: 1645354268, 
+         i_mode: 16877, i_links_count: 2, i_xattr: 0 i_uid: 0, i_gid: 0, 
+         i_generation: 0, i_create_time: 0, rdev: 0
+
+hk_commit_linkchange: inode 1 is open: true
+hk_commit_newattr: inode 0 is open: true

@@ -1,0 +1,17 @@
+{
+    "modules": {
+        "measure_timing": 0,
+        "wprotect": 0
+    },
+    "fs": {
+        "init":	1,   
+        "wprotect":	0
+    },
+    "build": {
+        "HK_ENABLE_LFS": 0,
+        "HK_ENABLE_ASYNC": 1,
+        "HK_ENABLE_IDX_ALLOC_PREDICT": 1,
+        "HK_ENABLE_PERFILE_CMT_SYSTEM": 1,
+        "HK_CHECKPOINT_INTERVAL": 5
+    }
+}
